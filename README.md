@@ -170,7 +170,7 @@ This work is described in the following peer-reviewed publications:
 
 ## About TIASM
 
-TIASM (التياسم) is an AI-powered e-health platform developed at the LINFI Laboratory, University of Biskra. It integrates multiple diagnostic AI models for malaria, pneumonia, and diabetic retinopathy, and has been officially labelled as an innovative project by regional academic and innovation authorities.
+TIASM (Technique de l'IA pour le Soutien de la Medecine) is an AI-powered e-health platform developed at the LINFI Laboratory, University of Biskra. It integrates multiple diagnostic AI models for malaria, pneumonia, and diabetic retinopathy, and has been officially labelled as an innovative project by regional academic and innovation authorities.
 
 - **Platform team:** 20+ AI researchers, 15+ healthcare professionals  
 - **Supervisor:** Prof. Laid Kahloul, LINFI Laboratory  
